@@ -1,4 +1,4 @@
-![Header](https://github.com/j1nnx/j1nnx/blob/main/assets/4evb.gif)
+![Header](https://github.com/j1nnx/j1nnx/blob/main/assets/animirovannyi-avatar-anime-3.gif)
 
 ## About Me:
 
