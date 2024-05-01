@@ -1,6 +1,6 @@
 ![Header](https://github.com/j1nnx/j1nnx/blob/main/assets/4evb.gif)
 
-About me
+## I'm a beginner programmer, currently studying Python
 
 Languages and Tools
 
