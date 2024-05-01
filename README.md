@@ -5,4 +5,3 @@
 Languages and Tools
 [Python](https://github.com/j1nnx/j1nnx/blob/main/assets/img.png)
 
-Follow Me
