@@ -1,7 +1,12 @@
 ![Header](https://github.com/j1nnx/j1nnx/blob/main/assets/4evb.gif)
 
-## I'm a beginner programmer, currently studying Python
+## About Me:
 
-Languages and Tools
-[Python](https://github.com/j1nnx/j1nnx/blob/main/assets/img.png)
+##### My name is Arkadiy. I'm python development intern.
+
+##### I live in Cheboksary, I'm 17 years old and I study at a college called Skyeng
+
+
+
+
 
