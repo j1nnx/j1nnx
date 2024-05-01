@@ -3,5 +3,6 @@
 ## I'm a beginner programmer, currently studying Python
 
 Languages and Tools
+[Python](![img.png](assets/img.png))
 
 Follow Me
