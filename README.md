@@ -4,7 +4,7 @@
 
 #### My name is Arkadiy. I'm python development intern.
 
-#### I live in Cheboksary, I'm 17 years old and I study at a college called Skyeng
+#### I live in Cheboksary, I'm 17 years old and I study at a college called Singuarity Hub by Skyeng
 
 
 
