@@ -1,5 +1,5 @@
 ![721579529e37effcd53f7a3db4259a4e](https://github.com/user-attachments/assets/c28fc54f-6587-4587-a38d-11c03847e092)
-![Uploading image.png…]()
+https://ru.pinterest.com/pin/3518505954318006/
 
 
 # 💫 About Me
