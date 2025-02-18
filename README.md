@@ -1,5 +1,8 @@
-![721579529e37effcd53f7a3db4259a4e](https://github.com/user-attachments/assets/c28fc54f-6587-4587-a38d-11c03847e092)![721579529e37effcd53f7a3db4259a4e](https://github.com/user-attachments/assets/70dd3206-fa23-4315-a37a-931b5f38751f)
-# 💫 About Me:
+![721579529e37effcd53f7a3db4259a4e](https://github.com/user-attachments/assets/c28fc54f-6587-4587-a38d-11c03847e092)
+![Uploading image.png…]()
+
+
+# 💫 About Me
 🔭 My name is Arkadiy. I'm python development intern.<br>👯 I live in Cheboksary, I'm 17 years old and I study at a college called Singuarity Hub by Skyeng<br>
 
 
